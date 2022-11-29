@@ -1,10 +1,8 @@
-# AVS (Azure VMware Solution) </br>
+# Azure VMware Solution (AVS) usefull links for learning </br>
 
 [Learning Plan Resources for Azure VMware Solution AVS](https://microsoft.github.io/PartnerResources/azure/infrastructure/azure-vmware-solution)
 
-
-Azure VMware Solution </br>
-https://vmc.techzone.vmware.com/azure-vmware-solution
+[Azure VMware Solution](https://vmc.techzone.vmware.com/azure-vmware-solution)
 
 Azure VMware Solution Host Types </br>
 https://vmc.techzone.vmware.com/resource/azure-vmware-solution-host-types
