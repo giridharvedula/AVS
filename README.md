@@ -1,8 +1,8 @@
 # AVS (Azure VMware Solution) </br>
 Learning Plan Resources for Azure VMware Solution (AVS)
 
-Learning Plan Resources for Azure VMware Solution (AVS) </br>
-https://microsoft.github.io/PartnerResources/azure/infrastructure/azure-vmware-solution
+[Learning Plan Resources for Azure VMware Solution (AVS)] (https://microsoft.github.io/PartnerResources/azure/infrastructure/azure-vmware-solution) </br>
+
 
 Azure VMware Solution </br>
 https://vmc.techzone.vmware.com/azure-vmware-solution
