@@ -1,11 +1,10 @@
 # Azure VMware Solution (AVS) usefull links for learning </br>
 
-[Learning Plan Resources for Azure VMware Solution AVS](https://microsoft.github.io/PartnerResources/azure/infrastructure/azure-vmware-solution)
+1. [Learning Plan Resources for Azure VMware Solution AVS](https://microsoft.github.io/PartnerResources/azure/infrastructure/azure-vmware-solution)
 
-[Azure VMware Solution](https://vmc.techzone.vmware.com/azure-vmware-solution)
+2. [Azure VMware Solution](https://vmc.techzone.vmware.com/azure-vmware-solution)
 
-Azure VMware Solution Host Types </br>
-https://vmc.techzone.vmware.com/resource/azure-vmware-solution-host-types
+3. [Azure VMware Solution Host Types](https://vmc.techzone.vmware.com/resource/azure-vmware-solution-host-types)
 
 Deploy Azure NetApp Files for AVS </br>
 https://vmc.techzone.vmware.com/?share=video2936&title=deploy-azure-netapp-files-for-avs
