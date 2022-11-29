@@ -1,4 +1,4 @@
-# AVS
+# AVS (Azure VMware Solution)
 Learning Plan Resources for Azure VMware Solution (AVS)
 
 Learning Plan Resources for Azure VMware Solution (AVS)
